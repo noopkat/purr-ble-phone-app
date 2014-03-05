@@ -11,6 +11,7 @@ Oh god run away, it's my first ever iPhone / Android app save yourselves
 **Bluetooth Low Energy Stuff**
 + [Bluetooth Smart plugin for phonegap](https://github.com/KristinaHeyerdahlElfving/Bluetooth-Smart-Plugin)
 + [Bluetooth Low Energy for phonegap](https://github.com/randdusing/BluetoothLE)
++ [Arduino lib for Femtoduino](https://github.com/jrowberg/bglib/blob/master/Arduino/Examples/BGLib_scanner/BGLib_scanner.ino)
 
 **Features planned**
 + Show battery life of P.U.R.R. bracelet
